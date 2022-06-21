@@ -1,2 +1,3 @@
 Olá,me chamo Pessoa1
 Eu gosto de Pessoa2
+Eu não gosto de Pessoa2
